@@ -86,6 +86,12 @@
 ### Hover effect on photo jQuery
 * https://bestjquery.com/tutorial/hover-effect/demo388
 
+### Bootstrap4 carousel only with text
+* https://codepen.io/Washable/pen/Oxqjbq
+
+### Bootstrap Website slider quotes, logo slider
+* https://demo.htmlhunters.com/profi/restaurant.html
+* 
 ### Effect of heading
 * https://codepen.io/oscar-jite/embed/dyZJmxp?height=300&theme-id=dark&default-tab=css%2Cresult&slug-hash=dyZJmxp&user=oscar-jite&name=cp_embed_5#result-box
 
