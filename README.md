@@ -63,6 +63,29 @@
 ### Effect writing text
 * https://codepen.io/oscar-jite/embed/WNXdwoQ?height=300&theme-id=dark&default-tab=css%2Cresult&slug-hash=WNXdwoQ&user=oscar-jite&name=cp_embed_3#result-box
 
+### Effect of buttons
+* https://bestjquery.com/tutorial/button/demo225
+
+### Slider Logo Bootstrap
+* https://codepen.io/gvzq/pen/OJVvzJz
+  
+### Effect jQuery plugin slider
+* https://www.jqueryscript.net/slider/jQuery-Plugin-For-Pretty-Image-Slider-With-Thumbnails-desoSlide.html
+
+### Effect gallery jQuery
+* https://freefrontend.com/jquery-gallery-plugins/
+* https://codepen.io/TKS31/pen/abvxNeo
+* https://codepen.io/JoshuaVB/pen/MWrBNLd
+* https://codepen.io/mican/pen/awxmpY
+* https://freefrontend.com/jquery-gallery-plugins/ 
+
+### Preloader jQuery
+* https://bestjquery.com/tutorial/preloader/demo394
+* https://bestjquery.com/tutorial/preloader/demo370/
+
+### Hover effect on photo jQuery
+* https://bestjquery.com/tutorial/hover-effect/demo388
+
 ### Effect of heading
 * https://codepen.io/oscar-jite/embed/dyZJmxp?height=300&theme-id=dark&default-tab=css%2Cresult&slug-hash=dyZJmxp&user=oscar-jite&name=cp_embed_5#result-box
 
