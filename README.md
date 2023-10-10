@@ -8,7 +8,7 @@
 * https://google.github.io/styleguide/htmlcssguide.html
 * Use CSS variable - https://www.w3schools.com/css/css3_variables.asp
 
-### Properties
+## Properties
 * .selector-item {
   /* Position */
   position: fixed;
